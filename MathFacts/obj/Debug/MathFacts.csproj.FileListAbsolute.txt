@@ -1,0 +1,6 @@
+c:\users\mtv19\documents\visual studio 2017\Projects\MathFacts\MathFacts\bin\Debug\MathFacts.exe.config
+c:\users\mtv19\documents\visual studio 2017\Projects\MathFacts\MathFacts\bin\Debug\MathFacts.exe
+c:\users\mtv19\documents\visual studio 2017\Projects\MathFacts\MathFacts\bin\Debug\MathFacts.pdb
+c:\users\mtv19\documents\visual studio 2017\Projects\MathFacts\MathFacts\obj\Debug\MathFacts.csprojResolveAssemblyReference.cache
+c:\users\mtv19\documents\visual studio 2017\Projects\MathFacts\MathFacts\obj\Debug\MathFacts.exe
+c:\users\mtv19\documents\visual studio 2017\Projects\MathFacts\MathFacts\obj\Debug\MathFacts.pdb
